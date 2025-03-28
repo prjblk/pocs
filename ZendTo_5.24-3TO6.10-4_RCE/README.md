@@ -1,4 +1,4 @@
-# ZendTo <= v6.10-4 Authenticated OS Command Injection
+# ZendTo v5.24-3 <= v6.10-4 Authenticated OS Command Injection
 
 ## Lab setup
 
